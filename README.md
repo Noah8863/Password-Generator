@@ -13,5 +13,10 @@ This Password Generator uses JavaScript to take in inputs from the user by alart
  
  # Contact
 
-Email: stacknoah99@gmail.com </br>
-GitHub User Name: Noah8863
+  If you have any questions, please contact me at: 
+ 
+  Github Profile: [noah8863](https://github.com/noah8863)  
+
+  Email: stacknoah99@gmail.com 
+
+  LinkedIn: [Noah Hoffman](https://www.linkedin.com/in/noah-hoffman-9975a7121/)
